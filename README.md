@@ -16,7 +16,7 @@ Current version: v1.0.11
 -------
 ### Install
 ```
-git clone https://github.com/LastHashPool/node-open-mining-portal.git pool
+git clone https://github.com/LastHashPool/nomp-yescryptr16.git pool
 cd pool
 npm install
 node init.js
